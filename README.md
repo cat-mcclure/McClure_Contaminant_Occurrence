@@ -1,6 +1,7 @@
 # McClure_Contaminant_Occurrence
  Code for the Bayesian hierarchical joint-contaminant model used to analyze the occurrence and co-occurrence of contaminants in the Chesapeake Bay Watershed. Additional information on the R package used (Hierarchical Modelling of Species Communities; HMSC) can be found at https://www.helsinki.fi/en/researchgroups/statistical-ecology/hmsc
- 
+
+https://doi.org/10.5281/zenodo.3746590
 
 
 All necessary data sets can be found in the Data folder, along with the necessary shape files for mapping
